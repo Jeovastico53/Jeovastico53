@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jeovastico53.
+- 👋 Hi, I’m @Jeovástico53.
 - 👀 I’m interested in Games, Movies, Music, Sports and ETC.
 - 🌱 I’m currently learning HTML, CSS, Portugol and Python.
 - 💞️ I’m looking to collaborate on ...
